@@ -13,9 +13,9 @@ app.use(helmet());
 app.use(morgan('dev'));
 app.use(bodyParser.json());
 
-const employees = require('./routes/users');
+const listTest = require('./routes/users');
 
-app.use('/', employees);
+app.use('/', listTest);
 
 // app.use(notFound);
 // app.use(errorHandler);
