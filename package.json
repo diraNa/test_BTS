@@ -9,10 +9,6 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zagaris/express-api/issues"
-  },
-  "homepage": "https://github.com/zagaris/express-api#readme",
   "dependencies": {
     "argon2": "^0.41.1",
     "body-parser": "^1.19.0",
