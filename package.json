@@ -7,10 +7,6 @@
     "start": "node src/server.js",
     "dev": "nodemon src/server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zagaris/express-api.git"
-  },
   "author": "",
   "license": "ISC",
   "bugs": {
