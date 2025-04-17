@@ -1,0 +1,27 @@
+[
+    {
+        "email": "nadiradira0@gmail.com",
+        "username": "nadira",
+        "password": "123456"
+    },
+    {
+        "email": "desi@gmail.com",
+        "username": "desi",
+        "password": "desi123456"
+    },
+    {
+        "email": "ratna@gmail.com",
+        "username": "ratna",
+        "password": "ratna123456"
+    },
+    {
+        "email": "ali@gmail.com",
+        "username": "ali",
+        "password": "ali123456"
+    },
+    {
+        "email": "dian@gmail.com",
+        "username": "dian",
+        "password": "$argon2id$v=19$m=2048,t=2,p=4$exlaeaQ7+hlt0UedEdjGzw$2SQlO5Z7GMWhbN4+evreXT1dmEdUeLakv36jVsN8OrQ"
+    }
+]
